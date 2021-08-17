@@ -10,3 +10,5 @@ These sort of profile READMEs are overused. Please stop using this format.
 - 📫 How to reach me: Public email on my profile.
 - 😄 Pronouns: 
 - ⚡ Fun fact: I dislike this README format and would like to see more unique profile READMEs
+
+![Totally real GitHub stats](stats.svg)
