@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-These sort of profile READMEs are overused. Please stop using this format.
+These sort of profile READMEs [are overused](https://github.com/topics/github-config?o=desc&s=updated). Please stop using this format.
 
 - 🔭 I’m currently working on abolishing this profile README format.
 - 🌱 I’m currently learning to convince people to stop using this format.
