@@ -8,7 +8,7 @@ These sort of profile READMEs [are overused](https://github.com/topics/github-co
 - 🤔 I’m looking for help with abolishing this format.
 - 💬 Ask me about getting rid of this README format
 - 📫 How to reach me: Public email on my profile.
-- 😄 Pronouns: 
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I dislike this README format and would like to see more unique profile READMEs
 
 ![Totally real GitHub stats](stats.svg)
