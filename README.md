@@ -9,7 +9,7 @@ These sort of profile READMEs [are overused](https://github.com/topics/github-co
 - 💬 Ask me about getting rid of this README format
 - 📫 How to reach me: Message me.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I dislike this README format and would like to see more unique profile READMEs
+- ⚡ Fun fact: I dislike this README format and would like to see more unique profile READMEs and better project READMEs.
 - 🏴‍☠ STOLEN from [MichailiK](https://github.com/MichailiK), go give them stars.
 
 ![Totally real GitHub stats](stats.svg)
